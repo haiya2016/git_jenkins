@@ -6,4 +6,6 @@ class Test_jenkins():
     def test_01(self):
         '''第一个测试程序'''
         assert(1 == 1)
-        
+    
+    def test_02(self):
+        assert(2 == 3)
